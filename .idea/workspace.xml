@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3345640d-2741-48d9-9fb9-3d7594ae3815" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Django/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thoughtsnideas/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/thoughtsnideas/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/thoughtsnideas/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/thoughtsnideas/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/thoughtsnideas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/thoughtsnideas/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thoughtsnideas/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/thoughtsnideas/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thoughtsnideas/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/thoughtsnideas/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/thoughtsnideas/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/thoughtsnideas/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,9 +24,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -94,8 +98,17 @@
       <updated>1594391893174</updated>
       <workItem from="1594391896961" duration="2432000" />
       <workItem from="1594419910865" duration="1738000" />
-      <workItem from="1594476231617" duration="7691000" />
+      <workItem from="1594476231617" duration="7934000" />
+      <workItem from="1594657689281" duration="10493000" />
     </task>
+    <task id="LOCAL-00001" summary="home &amp; navigation">
+      <created>1594496685507</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594496685507</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,5 +156,9 @@
         <option value="1" />
       </set>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="home &amp; navigation" />
+    <option name="LAST_COMMIT_MESSAGE" value="home &amp; navigation" />
   </component>
 </project>
