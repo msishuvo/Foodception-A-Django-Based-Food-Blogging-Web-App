@@ -6,17 +6,11 @@
       <change beforePath="$PROJECT_DIR$/Django/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Django/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/thoughtsnideas/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/thoughtsnideas/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/thoughtsnideas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/thoughtsnideas/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/users/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/users/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thoughtsnideas/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/thoughtsnideas/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/thoughtsnideas/post_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/thoughtsnideas/post_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/users/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/users/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/thoughtsnideas/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/thoughtsnideas/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/thoughtsnideas/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/thoughtsnideas/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +100,11 @@
       <workItem from="1594419910865" duration="1738000" />
       <workItem from="1594476231617" duration="7934000" />
       <workItem from="1594657689281" duration="11245000" />
-      <workItem from="1594725784943" duration="16642000" />
+      <workItem from="1594725784943" duration="17213000" />
+      <workItem from="1595017410890" duration="596000" />
+      <workItem from="1595346777028" duration="17000" />
+      <workItem from="1595346810852" duration="6559000" />
+      <workItem from="1595354024122" duration="975000" />
     </task>
     <task id="LOCAL-00001" summary="home &amp; navigation">
       <created>1594496685507</created>
@@ -122,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594670671417</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="login, logout, and post_crud">
+      <created>1594748099527</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594748099527</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +179,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="home &amp; navigation" />
     <MESSAGE value="new user registration" />
-    <option name="LAST_COMMIT_MESSAGE" value="new user registration" />
+    <MESSAGE value="login, logout, and post_crud" />
+    <option name="LAST_COMMIT_MESSAGE" value="login, logout, and post_crud" />
   </component>
 </project>
