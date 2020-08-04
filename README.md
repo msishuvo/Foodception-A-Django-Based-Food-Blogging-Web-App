@@ -1,3 +1,3 @@
-# Thoughts-n-Ideas-A-Django-Based-Blogging-Web-App
+# Foodception-A-Django-Based-Food-Blogging-Web-App
 
 Still on Development.
