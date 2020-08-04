@@ -3,14 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="3345640d-2741-48d9-9fb9-3d7594ae3815" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/thoughtsnideas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/thoughtsnideas/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/thoughtsnideas/post_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/thoughtsnideas/post_detail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/users/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/users/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thoughtsnideas/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/thoughtsnideas/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thoughtsnideas/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/thoughtsnideas/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/models.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +98,8 @@
       <workItem from="1595017410890" duration="596000" />
       <workItem from="1595346777028" duration="17000" />
       <workItem from="1595346810852" duration="6559000" />
-      <workItem from="1595354024122" duration="975000" />
+      <workItem from="1595354024122" duration="1276000" />
+      <workItem from="1595504869214" duration="1494000" />
     </task>
     <task id="LOCAL-00001" summary="home &amp; navigation">
       <created>1594496685507</created>
@@ -127,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594748099527</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="login, logout, and post_crud">
+      <created>1595355245029</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1595355245029</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
